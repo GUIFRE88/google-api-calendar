@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Google::APICalendar::VERSION
   spec.authors       = ['Vadim Vorotilov']
   spec.email         = ['fant.geass@gmail.com']
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Wrapper for the latest google calendar api.}
+  spec.description   = %q{This gem provides a wrapper for the latest google calendar api.}
   spec.homepage      = 'https://github.com/fantgeass/google-api-calendar'
   spec.license       = 'MIT'
 
